@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kathirvel78/portfolio.git/static/css/main.10702eb5.css",
+    "main.js": "/kathirvel78/portfolio.git/static/js/main.30d928dd.js",
+    "static/js/453.acca0757.chunk.js": "/kathirvel78/portfolio.git/static/js/453.acca0757.chunk.js",
+    "index.html": "/kathirvel78/portfolio.git/index.html",
+    "main.10702eb5.css.map": "/kathirvel78/portfolio.git/static/css/main.10702eb5.css.map",
+    "main.30d928dd.js.map": "/kathirvel78/portfolio.git/static/js/main.30d928dd.js.map",
+    "453.acca0757.chunk.js.map": "/kathirvel78/portfolio.git/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10702eb5.css",
+    "static/js/main.30d928dd.js"
+  ]
+}
